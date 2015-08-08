@@ -1,2 +1,1 @@
-# brilliant
-math is life
+in  base-10, if a number K can be xpressed as 2^n.5^m then 1/k has ending decimal representation. Actually it is applicable for any number in any base, just need to check whether K can be xpressed as the multiplication of primes those are also present in that nth base.

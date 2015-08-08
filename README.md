@@ -1,0 +1,2 @@
+# brilliant
+math is life
